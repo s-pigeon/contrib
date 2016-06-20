@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/gin-gonic/gin"
 	"github.com/gorilla/context"
 	"github.com/gorilla/sessions"
+	"github.com/s-pigeon/gin"
 )
 
 const (
